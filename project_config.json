@@ -6,8 +6,8 @@
         10000,
         200
       ],
-      "tensorPath": "https://raw.githubusercontent.com/rafaeltsousa/TUSS-Embeddings/master/embedding_points_10.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/rafaeltsousa/TUSS-Embeddings/master/embedding_meta_10.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/rafaeltsousa/TUSS-Embeddings/master/embedding_points_10.csv",
+      "metadataPath": "https://raw.githubusercontent.com/rafaeltsousa/TUSS-Embeddings/master/embedding_meta_10.csv"
     }
   ]
 }

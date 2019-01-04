@@ -6,8 +6,8 @@
         30000,
         200
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+      "tensorPath": "https://www.dropbox.com/s/7ip1hxntg4g2b8b/embedding_points.csv",
+      "metadataPath": "https://raw.githubusercontent.com/rafaeltsousa/TUSS-Embeddings/master/embedding_meta.csv"
     }
   ]
 }

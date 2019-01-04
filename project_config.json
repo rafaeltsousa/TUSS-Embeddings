@@ -6,7 +6,7 @@
         30000,
         200
       ],
-      "tensorPath": "https://www.dropbox.com/s/7ip1hxntg4g2b8b/embedding_points.csv",
+      "tensorPath": "https://www.dropbox.com/s/7ip1hxntg4g2b8b/embedding_points.csv?dl=0",
       "metadataPath": "https://raw.githubusercontent.com/rafaeltsousa/TUSS-Embeddings/master/embedding_meta.csv"
     }
   ]
